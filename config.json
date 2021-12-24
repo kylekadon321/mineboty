@@ -1,7 +1,7 @@
 {
- "ip": "SquidGameGloster.aternos.me",
- "port": "13126",
- "name": "KyleXD",
- "auto-night-skip": "true",
- "loginmsg": "/login tommygwapo"
+ "ip": "gloster.aternos.me",
+ "port": "36803",
+ "name": "Mc_CringeXD",
+ "auto-night-skip": "false",
+ "loginmsg": "/register tommygwapo tommygwapo"
 }
